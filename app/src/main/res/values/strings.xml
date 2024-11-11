@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Lorem Ipsum Example -->
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet...
+    </string>
+
+    <!-- Памятки для различных видов спорта -->
+    <string name="volleyball_tips">Памятка для волейболиста: Разминка, техника игры, игровые ситуации и т.д.</string>
+    <string name="football_tips">Памятка для футболиста: Разминка, техника игры, тренировка пасов и т.д.</string>
+    <string name="basketball_tips">Памятка для баскетболиста: Разминка, броски, тренировка дриблинга и т.д.</string>
+    <string name="fencing_tips">Памятка для фехтовальщика: Разминка, техника владения шпагой и т.д.</string>
+    <string name="belly_dance_tips">Памятка для танцовщицы: Разминка, основные движения, техника дыхания и т.д.</string>
+    <string name="badminton_tips">Памятка для бадминтониста: Разминка, техника ударов, игровая стратегия и т.д.</string>
+    <string name="table_tennis_tips">Памятка для настольного теннисиста: Разминка, техника подачи, работа ног и т.д.</string>
+    <string name="boxing_tips">Памятка для боксёра: Разминка, техника ударов, работа с мешком и т.д.</string>
+    <string name="pilates_tips">Памятка для пилатеса: Разминка, контроль дыхания, основные упражнения и т.д.</string>
+    <string name="aerobics_tips">Памятка для аэробики: Разминка, основные движения, кардио нагрузки и т.д.</string>
+</resources>
