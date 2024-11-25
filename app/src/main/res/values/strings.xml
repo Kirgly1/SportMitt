@@ -24,4 +24,26 @@
     <string name="boxing_tips">Памятка для боксёра: Разминка, техника ударов, работа с мешком и т.д.</string>
     <string name="pilates_tips">Памятка для пилатеса: Разминка, контроль дыхания, основные упражнения и т.д.</string>
     <string name="aerobics_tips">Памятка для аэробики: Разминка, основные движения, кардио нагрузки и т.д.</string>
+
+    <string name="volleyball_food_tips">Памятка для волейболиста: Какая еда лучше всего подойдет</string>
+    <string name="football_food_tips">Памятка для футболиста: Какая еда лучше всего подойдет</string>
+    <string name="basketball_food_tips">Памятка для баскетболиста: Какая еда лучше всего подойдет</string>
+    <string name="fencing_food_tips">Памятка для фехтовальщика: Какая еда лучше всего подойдет</string>
+    <string name="belly_dance_food_tips">Памятка для танцовщицы: Какая еда лучше всего подойдет</string>
+    <string name="badminton_food_tips">Памятка для бадминтониста: Какая еда лучше всего подойдет</string>
+    <string name="table_tennis_food_tips">Памятка для настольного теннисиста: Какая еда лучше всего подойдет</string>
+    <string name="boxing_food_tips">Памятка для боксёра: Какая еда лучше всего подойдет</string>
+    <string name="pilates_food_tips">Памятка для пилатеса: Какая еда лучше всего подойдет</string>
+    <string name="aerobics_food_tips">Памятка для аэробики: Какая еда лучше всего подойдет</string>
+
+    <string name="volleyball_section">Описание спорта</string>
+    <string name="football_section">Описание спорта</string>
+    <string name="basketball_section">Описание спорта</string>
+    <string name="fencing_section">Описание спорта</string>
+    <string name="belly_section">Описание спорта</string>
+    <string name="badminton_section">Описание спорта</string>
+    <string name="table_tennis_section">Описание спорта</string>
+    <string name="boxing_section">Описание спорта</string>
+    <string name="pilates_section">Описание спорта</string>
+    <string name="aerobics_section">Описание спорта</string>
 </resources>

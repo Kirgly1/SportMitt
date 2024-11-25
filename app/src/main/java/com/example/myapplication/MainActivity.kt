@@ -22,7 +22,8 @@ class MainActivity : AppCompatActivity() {
 
 
         chooseSectionButton.setOnClickListener {
-
+            val intent = Intent(this, ChoiseSectionActivity::class.java)
+            startActivity(intent)
         }
 
         statisticsButton.setOnClickListener {
@@ -34,7 +35,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         recommendationsButton.setOnClickListener {
-
             val intent = Intent(this, RecommendationsActivity::class.java)
             startActivity(intent)
         }
@@ -44,7 +44,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         foodRecommendationsButton.setOnClickListener {
-
+            val intent = Intent(this, RecommendationsFoodActivity::class.java)
+            startActivity(intent)
         }
         contactsButton.setOnClickListener {
             val intent = Intent(this, UserProfileActivity::class.java)
